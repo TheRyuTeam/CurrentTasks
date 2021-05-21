@@ -1,6 +1,8 @@
-#Alex TS
+Alex TS
+===
 ***
-##App Configuration Extension
+App Configuration Extension
+===
 - custom theme: 
     - bg color
     - font 
